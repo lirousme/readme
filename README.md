@@ -9,7 +9,7 @@ O projeto prioriza simplicidade, baixo overhead, separação de responsabilidade
 ## Stack
 
 - **Frontend:** HTML + JavaScript
-- **Estilização:** TailwindCSS, sempre em dark Mode.
+- **Estilização:** TailwindCSS, sempre em dark mode.
 - **Backend:** PHP
 - **Banco de dados:** MySQL
 - **Configuração:** `public_html/subdrill/.env`
