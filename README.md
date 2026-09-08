@@ -9,8 +9,7 @@ O projeto prioriza simplicidade, baixo overhead, separação de responsabilidade
 ## Stack
 
 - **Frontend:** HTML + JavaScript
-- **Estilização:** TailwindCSS
-- **Tema:** Dark Mode
+- **Estilização:** TailwindCSS, sempre em dark Mode.
 - **Backend:** PHP
 - **Banco de dados:** MySQL
 - **Configuração:** `.env`
