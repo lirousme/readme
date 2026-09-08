@@ -36,3 +36,6 @@ Arquitetura MPA (Multi-Page Application).
 - ID das vozes:
   - Português: 'pt-BR-Chirp3-HD-Algenib'
   - Inglês: 'en-GB-Chirp3-HD-Achird'
+ 
+- Armazenamento de áudios e imagens:
+- Os áudios e imagens devem ser convertidos para Base64 e salvos no banco de dados.
