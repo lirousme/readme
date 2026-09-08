@@ -1,6 +1,6 @@
-Estilização: TailwindCSS, darkmode.
-Linguagens: PHP, JS, HTML.
-Banco de dados: MySQL, dados de acesso no arquivo .env
-Padrão arquitetural: Front Controller, combinado com Routing/Dispatcher.
-Endereço dos arquivo do app: public_html/subdrill/
-public_html/subdrill/app.index é o arquivo do Front Controller.
+- Estilização: TailwindCSS, darkmode.
+- Linguagens: PHP, JS, HTML.
+- Banco de dados: MySQL, dados de acesso no arquivo .env (DB_HOST, DB_NAME, DB_USER, DB_PASS)
+- Padrão arquitetural: Front Controller, combinado com Routing/Dispatcher.
+- Endereço dos arquivo do app: public_html/subdrill/
+- public_html/subdrill/app.index é o arquivo do Front Controller.
