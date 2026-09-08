@@ -17,6 +17,13 @@ $route = parse_url($_SERVER['REQUEST_URI'], PHP_URL_PATH);
 switch ($route) {...}
 ?>
 
+Front Controller Pattern
+→ Router
+→ Dispatcher
+→ Static HTML Pages
+
+Arquitetura MPA (Multi-Page Application).
+
 - Geração de respostas em texto:
   - API Key do Gemini, fica no arquivo .env (GEMINI_API_KEY).
   - define('GEMINI_API_KEY', envValue('GEMINI_API_KEY', ''));
