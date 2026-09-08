@@ -12,7 +12,7 @@ O projeto prioriza simplicidade, baixo overhead, separação de responsabilidade
 - **Estilização:** TailwindCSS, sempre em dark Mode.
 - **Backend:** PHP
 - **Banco de dados:** MySQL
-- **Configuração:** `.env`
+- **Configuração:** `public_html/subdrill/.env`
 - **Arquitetura:** Front Controller + Routing/Dispatcher
 - **Modelo de aplicação:** MPA (Multi-Page Application)
 - **IA / geração de texto:** Google Gemini API
