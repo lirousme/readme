@@ -5,6 +5,18 @@
 - Endereço dos arquivo do app: public_html/subdrill/
 - public_html/subdrill/app.index é o arquivo do Front Controller.
 
+- Páginas:
+/index.php
+/pages/
+    login.html
+    dashboard.html
+/api/
+
+<?php
+$route = parse_url($_SERVER['REQUEST_URI'], PHP_URL_PATH);
+switch ($route) {...}
+?>
+
 - Geração de respostas em texto:
   - API Key do Gemini, fica no arquivo .env (GEMINI_API_KEY).
   - define('GEMINI_API_KEY', envValue('GEMINI_API_KEY', ''));
